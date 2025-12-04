@@ -13,7 +13,3 @@
 * [Introduction](introduction)
 * [Analysis](analysis)
 * [Design](design)
-* [Implementation](implementation)
-* [Testing](testing)
-* [Deployment](deployment)
-* [Maintenance](maintenance)
