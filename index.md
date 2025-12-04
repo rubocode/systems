@@ -1,5 +1,4 @@
 > [home](/)
-> &bull; [profile](/profile)
 > &bull; Work in progress...
 
 ![banner](/systems/photos/banner.png)
