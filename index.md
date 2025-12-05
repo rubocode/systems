@@ -10,5 +10,7 @@
 > **Steve Jobs**
 
 * [Introduction](introduction)
-* [Analysis](analysis)
-* [Design](design)
+* [Computing](/computing)
+* [Models](/models)
+* [Collaborative Distributed Intelligence](/cdi)
+* [Specifications](/specs)
