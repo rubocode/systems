@@ -4,13 +4,13 @@
 ![banner](/systems/photos/banner.png)
 
 ## Understanding Order
-> You are the light of the world.  
-> A town built on a hill cannot be hidden. Neither do people light a
-> lamp and put it under a bowl. Instead they put it on its stand, and it
-> gives light to everyone in the house.  
-> In the same way, let your light shine before others, that they may see
-> your good deeds and glorify your Father in heaven.  
-> **Matthew 5:14-16 NIV**
+
+> You are the light of the world. A city that is set on a hill cannot be hidden.
+> Nor do they light a lamp and put it under a basket, but on a lampstand,
+> and it gives light to all who are in the house.
+> Let your light so shine before men,
+> that they may see your good works and glorify your Father in heaven.  
+> **Matthew 5:14-16 NKJV**
 
 * [Introduction](introduction)
 * [Computing](/computing)
