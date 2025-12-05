@@ -12,5 +12,4 @@
 * [Introduction](introduction)
 * [Computing](/computing)
 * [Models](/models)
-* [Collaborative Distributed Intelligence](/cdi)
 * [Specifications](/specs)
