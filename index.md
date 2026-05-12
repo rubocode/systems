@@ -10,6 +10,3 @@
 > **Steve Jobs**
 
 * [Introduction](introduction)
-* [Computing](/computing)
-* [Models](/models)
-* [Specifications](/specs)
