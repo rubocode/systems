@@ -9,4 +9,5 @@
 > Design is how it works.  
 > **Steve Jobs**
 
-* [Introduction](introduction)
+* [The Rust Programming Language](/rust)
+* [The Neovim Editor](/neovim)
