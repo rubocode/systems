@@ -10,5 +10,4 @@
 > **Steve Jobs**
 
 * [Introduction](introduction)
-
- 
+* [Genetics](/genetics)
